@@ -7,6 +7,7 @@ public class TestCircle {
 		
 		System.out.println(nezha.color);
 		
+	
 
 	}
 
