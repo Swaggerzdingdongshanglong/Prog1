@@ -21,27 +21,31 @@ public class Car {
 
 	/**
 	 * changing speed of the car.
-	 * @param newSpeed int - new speed of "car"
+	 * 
+	 * @param newSpeed
+	 *            int - new speed of "car"
 	 */
 	public void setSpeed(int newSpeed) {
 		speed = newSpeed;
 	}
-/**
- * 
- * @return 
- */
+
+	/**
+	 * returns the value of the speed variable
+	 * @return
+	 */
 	public int getSpeed() {
 		return speed;
 	}
-/**
- * 
- * @param newColor
- */
+
+	/**
+	 * set new color
+	 * @param newColor
+	 */
 	public void setColor(String newColor) {
 		color = newColor;
-/**
- *  setting new color
- */
+		/**
+		 * setting new color
+		 */
 	}
 
 	public String getColor() {
